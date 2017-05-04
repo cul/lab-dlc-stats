@@ -1,0 +1,313 @@
+[
+  {
+    "publisher_pid": "cul:63xsj3txph",
+    "publisher_title": "1968: Columbia in Crisis",
+    "types_to_counts": {
+      "ContentAggregator": 94,
+      "GenericResource": 136
+    },
+    "image": "https://derivativo-1.library.columbia.edu/iiif/2/cul:5mkkwh714b/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:5x69p8czpg",
+    "publisher_title": "Avery's Architectural Ephemera Collections",
+    "types_to_counts": {
+      "ContentAggregator": 24,
+      "GenericResource": 47
+    },
+    "image": "https://derivativo-3.library.columbia.edu/iiif/2/cul:brv15dv4f1/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:j3tx95x6pz",
+    "publisher_title": "Avery's Architectural Novelties",
+    "types_to_counts": {
+      "ContentAggregator": 20,
+      "GenericResource": 76
+    },
+    "image": "https://derivativo-4.library.columbia.edu/iiif/2/cul:sxksn02vmx/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:qz612jm6hz",
+    "publisher_title": "Biggert Collection of Architectural Vignettes on Commercial Stationery",
+    "types_to_counts": {
+      "ContentAggregator": 1912,
+      "GenericResource": 1934
+    },
+    "image": "https://derivativo-2.library.columbia.edu/iiif/2/cul:ht76hdr85v/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:n02v6wwqbq",
+    "publisher_title": "Butler 75: Butler Library's 75th Anniversary, 1934-2009",
+    "types_to_counts": {
+      "ContentAggregator": 152,
+      "GenericResource": 154
+    },
+    "image": "https://derivativo-1.library.columbia.edu/iiif/2/cul:8gtht76hsd/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:sf7m0cfz2j",
+    "publisher_title": "Children's Drawings of the Spanish Civil War",
+    "types_to_counts": {
+      "ContentAggregator": 154,
+      "GenericResource": 159
+    },
+    "image": "https://derivativo-3.library.columbia.edu/iiif/2/cul:ffbg79cp2m/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:dv41ns1s1h",
+    "publisher_title": "Chinese Paper Gods",
+    "types_to_counts": {
+      "ContentAggregator": 230,
+      "GenericResource": 231
+    },
+    "image": "https://derivativo-4.library.columbia.edu/iiif/2/cul:k6djh9w192/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:v15dv41p6f",
+    "publisher_title": "Community Service Society Photographs",
+    "types_to_counts": {
+      "ContentAggregator": 1349,
+      "GenericResource": 2666
+    },
+    "image": "https://derivativo-4.library.columbia.edu/iiif/2/cul:bzkh1893f1/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:c59zw3r2g2",
+    "publisher_title": "Construction and Evolution of Union Theological Seminary Campus",
+    "types_to_counts": {
+      "ContentAggregator": 77,
+      "GenericResource": 77
+    },
+    "image": "https://derivativo-3.library.columbia.edu/iiif/2/cul:hmgqnk995f/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:sbcc2fqzjr",
+    "publisher_title": "Core Curriculum: Contemporary Civilization",
+    "types_to_counts": {
+      "ContentAggregator": 21,
+      "GenericResource": 44
+    },
+    "image": "https://derivativo-1.library.columbia.edu/iiif/2/cul:4tmpg4f52s/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:bg79cnp5wx",
+    "publisher_title": "Core Curriculum: Literature Humanities",
+    "types_to_counts": {
+      "ContentAggregator": 31,
+      "GenericResource": 61
+    },
+    "image": "https://derivativo-4.library.columbia.edu/iiif/2/cul:7d7wm37q7m/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:vmcvdnck2d",
+    "publisher_title": "DLC Catalog",
+    "types_to_counts": {
+      "BagAggregator": 10,
+      "Collection": 1,
+      "Concept": 35,
+      "ContentAggregator": 71169,
+      "GenericResource": 116652
+    },
+    "image": "https://farm3.staticflickr.com/2286/1836760843_f7feb0fcec_m_d.jpg",
+    "image2": "https://derivativo-4.library.columbia.edu/iiif/2/cul:vmcvdnck2d/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:47d7wm382k",
+    "publisher_title": "Dramatic Museum Realia",
+    "types_to_counts": {
+      "ContentAggregator": 527,
+      "GenericResource": 532
+    },
+    "image": "https://derivativo-1.library.columbia.edu/iiif/2/cul:mw6m905qvd/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:1g1jwstqwx",
+    "publisher_title": "Early Modern Futures",
+    "types_to_counts": {
+      "ContentAggregator": 15,
+      "GenericResource": 38
+    },
+    "image": "https://derivativo-1.library.columbia.edu/iiif/2/cul:hqbzkh18q9/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:tmpg4f4r66",
+    "publisher_title": "Frances Perkins: The Woman Behind the New Deal",
+    "types_to_counts": {
+      "ContentAggregator": 125,
+      "GenericResource": 223
+    },
+    "image": "https://derivativo-3.library.columbia.edu/iiif/2/cul:j6q573n66p/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:2jm63xsjgv",
+    "publisher_title": "G.E.E. Lindquist Native American Photographs",
+    "types_to_counts": {
+      "ContentAggregator": 1907,
+      "GenericResource": 3353
+    },
+    "image": "https://derivativo-3.library.columbia.edu/iiif/2/cul:fbg79cnpkf/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:jsxksn0388",
+    "publisher_title": "Greene & Greene Architectural Records and Papers Collection",
+    "types_to_counts": {
+      "ContentAggregator": 257,
+      "GenericResource": 4738
+    },
+    "image": "https://derivativo-4.library.columbia.edu/iiif/2/cul:6djh9w0w5g/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:dbrv15dvhr",
+    "publisher_title": "Hugh Ferriss Architectural Drawings",
+    "types_to_counts": {
+      "ContentAggregator": 180,
+      "GenericResource": 362
+    },
+    "image": "https://derivativo-1.library.columbia.edu/iiif/2/cul:gf1vhhmh3b/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:w6m905qg86",
+    "publisher_title": "Italian Jewish Community Regulations",
+    "types_to_counts": {
+      "ContentAggregator": 40,
+      "GenericResource": 126
+    },
+    "image": "https://derivativo-2.library.columbia.edu/iiif/2/cul:7m0cfxpp7m/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:sj3tx95xkj",
+    "publisher_title": "Jewels in Her Crown: Treasures from the Special Collections of Columbia's Libraries",
+    "types_to_counts": {
+      "ContentAggregator": 268,
+      "GenericResource": 324
+    },
+    "image": "https://derivativo-2.library.columbia.edu/iiif/2/cul:4mw6m9061k/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:x95x69p8t9",
+    "publisher_title": "Joseph Pulitzer and The World",
+    "types_to_counts": {
+      "ContentAggregator": 87,
+      "GenericResource": 138
+    },
+    "image": "https://derivativo-3.library.columbia.edu/iiif/2/cul:jm63xsj476/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:pvmcvdnczn",
+    "publisher_title": "Joseph Urban Stage Design Models and Documents",
+    "types_to_counts": {
+      "ContentAggregator": 1494,
+      "GenericResource": 2411
+    },
+    "image": "https://derivativo-1.library.columbia.edu/iiif/2/cul:5dv41ns243/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:g1jwstqk3c",
+    "publisher_title": "Judging a Book by its Cover: Gold Stamped Publishers' Bindings of the 19th Century",
+    "types_to_counts": {
+      "ContentAggregator": 232,
+      "GenericResource": 232
+    },
+    "image": "https://derivativo-2.library.columbia.edu/iiif/2/cul:9w0vt4b8vx/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:t4b8gthtnh",
+    "publisher_title": "Korean Independence Outbreak Movement",
+    "types_to_counts": {
+      "ContentAggregator": 3,
+      "GenericResource": 161
+    },
+    "image": "https://derivativo-1.library.columbia.edu/iiif/2/cul:280gb5mkz3/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:5qfttdz0mv",
+    "publisher_title": "Lehman Special Correspondence Files",
+    "types_to_counts": {
+      "ContentAggregator": 32877,
+      "GenericResource": 42762
+    },
+    "image": "https://derivativo-4.library.columbia.edu/iiif/2/cul:rxwdbrv1m8/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:8kprr4xh9s",
+    "publisher_title": "Music at Columbia: the First 100 Years",
+    "types_to_counts": {
+      "ContentAggregator": 78,
+      "GenericResource": 174
+    },
+    "image": "https://derivativo-3.library.columbia.edu/iiif/2/cul:7m0cfxpp7n/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:80gb5mkm8v",
+    "publisher_title": "Papers of John Jay",
+    "types_to_counts": {
+      "ContentAggregator": 13440,
+      "GenericResource": 30798
+    },
+    "image": "https://derivativo-2.library.columbia.edu/iiif/2/cul:nk98sf7mc2/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:stqjq2bw3h",
+    "publisher_title": "People in the Books: Hebraica and Judaica Manuscripts from Columbia University Libraries",
+    "types_to_counts": {
+      "ContentAggregator": 129,
+      "GenericResource": 200
+    },
+    "image": "https://derivativo-4.library.columbia.edu/iiif/2/cul:s1rn8pk135/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:6t1g1jwt6w",
+    "publisher_title": "Political Ecologies in the Renaissance",
+    "types_to_counts": {
+      "ContentAggregator": 11,
+      "GenericResource": 47
+    },
+    "image": "https://derivativo-2.library.columbia.edu/iiif/2/cul:djh9w0vtj0/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:f1vhhmgr1c",
+    "publisher_title": "Reading of Books and the Reading of Literature",
+    "types_to_counts": {
+      "ContentAggregator": 15,
+      "GenericResource": 64
+    },
+    "image": "https://derivativo-3.library.columbia.edu/iiif/2/cul:brv15dv4f2/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:9w0vt4b8w0",
+    "publisher_title": "Russian Imperial Corps of Pages: an Online Exhibition Catalog",
+    "types_to_counts": {
+      "ContentAggregator": 91,
+      "GenericResource": 26
+    },
+    "image": "https://derivativo-2.library.columbia.edu/iiif/2/cul:sj3tx95xkh/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:sqv9s4mwg3",
+    "publisher_title": "Seymour B. Durst Old York Library",
+    "types_to_counts": {
+      "Collection": 1,
+      "ContentAggregator": 15277,
+      "GenericResource": 18858
+    },
+    "image": "https://derivativo-2.library.columbia.edu/iiif/2/cul:hhmgqnk9nx/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:00000000b1",
+    "publisher_title": "Varsity Show: A Columbia Tradition",
+    "types_to_counts": {
+      "ContentAggregator": 36,
+      "GenericResource": 39
+    },
+    "image": "https://derivativo-1.library.columbia.edu/iiif/2/cul:zkh18932c4/featured/!256,256/0/native.jpg"
+  },
+  {
+    "publisher_pid": "cul:h44j0zpcp6",
+    "publisher_title": "Wilbert Webster White Papers",
+    "types_to_counts": {
+      "ContentAggregator": 6,
+      "GenericResource": 23
+    },
+    "image": "https://derivativo-3.library.columbia.edu/iiif/2/cul:pzgmsbccfp/featured/!256,256/0/native.jpg"
+  }
+]
